@@ -1,0 +1,3 @@
+/Users/developer/Desktop/Game Projects/Snake/build/CMakeFiles/snake.dir
+/Users/developer/Desktop/Game Projects/Snake/build/CMakeFiles/edit_cache.dir
+/Users/developer/Desktop/Game Projects/Snake/build/CMakeFiles/rebuild_cache.dir
